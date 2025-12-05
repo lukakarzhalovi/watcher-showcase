@@ -1,0 +1,92 @@
+## Build Folders
+bin/
+obj/
+[Bb]uild/
+[Bb]uilds/
+
+## Visual Studio Cache
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Mac / Linux files
+.DS_Store
+*.swp
+*~
+
+## ASP.NET Specific
+_AppStart.cshtml*
+App_Data/
+App_Code/
+App_Browsers/
+App_GlobalResources/
+App_LocalResources/
+App_Themes/
+App_WebReferences/
+
+## Publish output
+wwwroot/
+node_modules/
+dist/
+artifacts/
+publish/
+out/
+
+## Package Managers
+# NuGet
+*.nupkg
+!src/**/*.nupkg
+packages/
+*.snupkg
+
+# npm / yarn / pnpm
+node_modules/
+npm-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+## Logs
+*.log
+logs/
+log/
+
+## Configuration files containing secrets (optional)
+appsettings.Development.json
+appsettings.Local.json
+appsettings.*.json
+
+## Resharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+
+## Rider
+.idea/
+
+## Coverage / Analyzer
+coverage/
+*.coverage
+*.coveragexml
+TestResults/
+*.trx
+
+## EF Core
+Migrations/**/obj/
+*.dbmdl
+
+## Azure
+PublishProfiles/
+*.pubxml
+*.publishsettings
+
+## IIS / Server
+_IISExpress/
+*.iisexpress
+
+## Other
+*.temp
+*.tmp
+*.bak
+*.cache

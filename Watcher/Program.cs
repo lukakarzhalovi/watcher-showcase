@@ -1,0 +1,1 @@
+Host.CreateDefaultBuilder(args).use
